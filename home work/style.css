@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomMII4zjrZwHwlSs3ffcVTVVWKgRsoNsKyg&usqp=CAU);
+}
+.satauri{
+    font-size: 40px;
+    color:green;
+}
+.satauri2{
+    font-size: 25px;
+    color: black;
+    margin-right: 50%;
+}
+.dah{
+    text-decoration: underline;
+}
+h1{
+    font-size: 60px;
+}
+nav{
+    margin-left: 4%;
+    font-size: 21px;
+}
+
+hr{
+    color: black;
+    width: 90%;
+    height: 3%;
+    margin-right: 100%;
+}
+img{
+    
+    border-color: black;
+    width: 45%;
+    display: flex;
+
+}
+
+.photo{
+    display: flex;
+}
